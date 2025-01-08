@@ -51,3 +51,7 @@
 <img src="https://raw.githubusercontent.com/nfowlie/nfowlie/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nfowlie/flipperzero-animation-tool&type=Date)](https://star-history.com/#nfowlie/flipperzero-animation-tool&Date)
